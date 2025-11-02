@@ -25,7 +25,7 @@ All code is written in Java and organized into clear packages like `graph.scc`, 
 
 ---
 
-## 2. Datasets
+## 2. Datasets 
 To test everything, I created nine datasets with different graph sizes and densities.  
 They are stored in the folder `/data/`.
 
