@@ -1,5 +1,4 @@
 package graph;
-
 import graph.scc.SccTarjan;
 import util.io.JsonGraph;
 import util.metrics.simple_metrics;
