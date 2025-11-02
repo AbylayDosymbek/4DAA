@@ -8,7 +8,7 @@ public class DagShortestPaths {
     public DagShortestPaths(SccTarjan.JsonGraphCondensation g, metrics m){
         this.g = g; this.m = m;
     }
-
+    
     private List<Integer> topoOrder(){
         int n = g.n;
         List<List<Integer>> adj = new ArrayList<>();
