@@ -94,6 +94,7 @@ mvn package
 java -cp target/classes graph.App
 
 ```
+Make sure the `data/tasks.json` file is present in the project root.
 
 ---
 
