@@ -100,6 +100,7 @@ If the App.java is not running, you should do:
 1. Run - Edit Configurations - New Application - In the Main class we choose graph.App
 2. Working directory - Copy Path/Reference of 4DAA [assignment4] - in edit configuration we past the Path/Reference directory and apply it.
 3. Run the project by this configuration
+4. If it says that configuration is still incorrect - press continue anyway.
 
 ---
 
