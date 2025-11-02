@@ -95,6 +95,11 @@ java -cp target/classes graph.App
 
 ```
 Make sure the `data/tasks.json` file is present in the project root.
+WARNING! 
+If the App.java is not running, you should do:
+1. Run - Edit Configurations - New Application - In the Main class we choose graph.App
+2. Working directory - Copy Path/Reference of 4DAA [assignment4] - in edit configuration we past the Path/Reference directory and apply it.
+3. Run the project by this configuration
 
 ---
 
